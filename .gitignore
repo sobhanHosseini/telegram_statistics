@@ -1,0 +1,5 @@
+# custom .gitignore
+.vscode
+*.ipynb
+*.json
+*.ttf
